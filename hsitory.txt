@@ -1,5 +1,5 @@
-
-
+    1  VirtualBox --startvm XP
+    2  pwd
     3  cat /etc/*-release
     4  ls
     5  cd dekstop
@@ -39,3 +39,20 @@
    39  ls -lals
    40  history
    41  history > history.txt
+   42  ls -l
+   43  cat history.txt 
+   44  pwd
+   45  ls
+   46  cat history.txt 
+   47  git init
+   48  git add .
+   49  git config --global user.email rinalds.stauers@gmail.com
+   50  ls
+   51  git commit -m "20170914_15_55"
+   52  git remote add origin https://github.com/rinaldsstauers/DMI.git
+   53  git push origin master
+   54  history
+   55  ls -l
+   56  pwd
+   57  cat history.txt 
+   58  history > hsitory.txt
