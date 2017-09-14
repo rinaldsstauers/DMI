@@ -1,0 +1,41 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  cat /etc/*-release
+    4  ls
+    5  cd dekstop
+    6  cd Documnets
+    7  cd Desktop
+    8  ls
+    9  cd ..
+   10  ls -l
+   11  ls -a
+   12  ls -la
+   13  cd Documents/
+   14  ls
+   15  ls -l
+   16  ls -a
+   17  ls -la
+   18  cd ..
+   19  pwd
+   20  cd..
+   21  cd 
+   22  cd..
+   23  cd ..
+   24  cd /user
+   25  cd /user/
+   26  cd ..
+   27  cd /home/user
+   28  pwd
+   29  cd /
+   30  pwd
+   31  ls
+   32  mkdir darbi
+   33  cd ~
+   34  mk
+   35  mkdir darbi
+   36  ls
+   37  cd darbi
+   38  pwd
+   39  ls -lals
+   40  history
+   41  history > history.txt
