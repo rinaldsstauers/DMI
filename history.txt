@@ -1,5 +1,5 @@
-
-
+    1  VirtualBox --startvm XP
+    2  pwd
     3  cat /etc/*-release
     4  ls
     5  cd dekstop
@@ -39,3 +39,79 @@
    39  ls -lals
    40  history
    41  history > history.txt
+   42  ls -l
+   43  cat history.txt 
+   44  pwd
+   45  ls
+   46  cat history.txt 
+   47  git init
+   48  git add .
+   49  git config --global user.email rinalds.stauers@gmail.com
+   50  ls
+   51  git commit -m "20170914_15_55"
+   52  git remote add origin https://github.com/rinaldsstauers/DMI.git
+   53  git push origin master
+   54  history
+   55  ls -l
+   56  pwd
+   57  cat history.txt 
+   58  history > hsitory.txt
+   59  ls -l
+   60  nano history.txt 
+   61  ls
+   62  ls -l
+   63  cat history.txt 
+   64  git add .
+   65  git commit -m "20170914_16_45"
+   66  git push origin master
+   67  man echo
+   68  echo [options] [starings]
+   69  echo Tecmint is a community of Linux Nerds
+   70  x=10
+   71  echo x=10
+   72  echo The value of variable x = $x
+   73  echo -e "Tecemints \nis \na \ncommunity \nof \nLinux \nNerds"
+   74  echo -e "Tecemints \tis \ta \tcommunity \tof \tLinux \tNerds
+"
+   75  echo *
+   76  echo -e "tecemints \ris \na \ncomunnity
+"
+   77  echo -e "tecemints \\nis \na"
+   78  echo -e "rigas \btehniska \baugstskola"
+   79  echo if x=10 then echo -e "tas \ni \npareizi"
+   80  ls
+   81  echo *.txt
+   82  cp history.txt a.txt
+   83  ls -l
+   84  cp history.txt ~/a1.txt
+   85  cp history.txt /home/user/ad.txt
+   86  cp history.txt ../a3.txt
+   87  ls
+   88  cd ..
+   89  ls
+   90  cd /
+   91  pwd
+   92  mv /home/user/*.txt ~/darbi/
+   93  cd darbi
+   94  cd
+   95  ls
+   96  cd darbi/
+   97  ls
+   98  mkdir apaksdarbi
+   99  ls -l
+  100  mv a*.txt ./apaksdarbi/
+  101  ls
+  102  cd apaksdarbi/
+  103  ls
+  104  cd ..
+  105  rmdir apaksdarbi
+  106  man rmdir
+  107  rm apaksdarbi/
+  108  rm -r apaksdarbi/
+  109  ls
+  110  nano history.txt 
+  111  ls -l
+  112  nano
+  113  ls
+  114  cat nano.txt 
+  115  history > history.txt 
