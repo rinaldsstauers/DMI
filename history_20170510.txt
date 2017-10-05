@@ -1,0 +1,56 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rinaldsstauers/DMI.git
+    3  ls -l
+    4  cd DMI
+    5  pwd
+    6  nano
+    7  total value
+    8  Tests_1
+    9  nano
+   10  nano tests_1
+   11  nano Tests_1
+   12  cat Tests_1
+   13  Tests_1
+   14  ls -lt
+   15  chmod 744
+   16  chmod 744 Tests_1
+   17  ls -lt
+   18  Tests_1
+   19  ./Tests_1
+   20  nano Tests_1
+   21  ./Tests_1
+   22  nano Tests_1
+   23  Tests_1
+   24  ./Tests_1
+   25  nano Tests_1
+   26  ./Tests_1
+   27  nano Tests_1
+   28  ./Tests_1
+   29  nano Tests_1
+   30  ./Tests_1
+   31  nano Tests_1
+   32  ./Tests_1
+   33  nano Tests_1 
+   34  ./Tests_1 
+   35  nano Tests_1 
+   36  ./Tests_1 
+   37  nano Tests_1 
+   38  ./Tests_1 
+   39  nano Tests_1 
+   40  ./Tests_1 
+   41  nano Tests_1 
+   42  ./Tests_1 
+   43  nano Tests_1 
+   44  ./Tests_1 
+   45  nano Tests_1 
+   46  ./Tests_1 
+   47  nano Tests_1 
+   48  ./Tests_1 
+   49  nano Tests_1 
+   50  ./Tests_1 
+   51  nano Tests_1 
+   52  nano shell_operator_.sh
+   53  nano shell_operator_sh
+   54  ls -l
+   55  nano Tests_1 
+   56  history > history_20170510.txt
