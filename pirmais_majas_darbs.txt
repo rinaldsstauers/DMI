@@ -1,0 +1,23 @@
+cat - attelo to, kas atrodas faila, teksta veida
+cd - komanda, kuru izmanto, lai no vienas mapes tiktu uz citu
+cp - nokope failus un mapes
+chmod - maina faila rezimu bitus
+echo - parada teksta rindu
+mkdir - izveido jaunu mapi
+man - parada tiessaistes pamacibas
+ls - parada mapes saturu
+ls -l - parada mapes saturu garaka saraksta
+ls -la - parada pilnigi visu kas mape atrodas sakot ar .
+nano - izveido jaunu scriptu
+rmdir - izdzest mapi kura ir tuksa
+mv - parsaukt un parvietot failus un mapes
+pwd - parada pilno celu uz mapi kura atrodaties
+rm - izdzes speciali izveletus failus un mapes
+uname - sniedz pamata informaciju par sistemas programaturu un aparaturu
+who un whoami - parada pasreizejas sesijas lietotaja vardu
+whereis - parada kur atrodas mape
+git commit - saglaba izmainas repositarija
+git init - izveido jaunu git repositariju
+git add - pievieno ideksam faila saturu
+git clone - noklone repositariju jauna direktorija
+
