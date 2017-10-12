@@ -85,3 +85,7 @@
    85  ./stundas_darbs 
    86  nano stundas_darbs
    87  history > history.txt
+   88  nano stundas_darbs
+   89  ./stundas_darbs 
+   90  nano stundas_darbs
+   91  history > history_12102017_1710.txt
