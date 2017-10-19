@@ -1,0 +1,41 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rinaldsstauers/DMI.git
+    3  cd DMI
+    4  ls -l
+    5  nano stundas_darbs 
+    6  nano Pirmsk
+    7  chmod Pirmsk 744
+    8  chmod 744 Pirmsk
+    9  ls -l
+   10  ./Pirmsk
+   11  nano Pirmsk
+   12  ./Pirmsk
+   13  nano Pirmsk
+   14  ./Pirmsk
+   15  nano Pirmsk
+   16  ./Pirmsk
+   17  nano Pirmsk
+   18  ./Pirmsk
+   19  nano Pirmsk
+   20  ./Pirmsk
+   21  nano Pirmsk
+   22  ./Pirmsk
+   23  nano Pirmsk
+   24  ./Pirmsk
+   25  nano Pirmsk
+   26  ./Pirmsk
+   27  nano Pirmsk
+   28  ./Pirmsk
+   29  nano Pirmsk
+   30  ./Pirmsk
+   31  nano Pirmsk
+   32  ./Pirmsk
+   33  nano Pirmsk
+   34  ./Pirmsk
+   35  nano Pirmsk
+   36  ./Pirmsk
+   37  nano Pirmsk
+   38  ./Pirmsk
+   39  nano Pirmsk
+   40  ./Pirmsk
+   41  history > history19102017_15_55.txt

@@ -1,0 +1,17 @@
+#!/bin/bash
+
+a=1
+j=2
+
+while [ a <= 100 ]
+do
+if [ `expr $a % $j` == 0 ]
+then
+exit
+else
+if [ `expr $a % $j` == 1 ]
+then
+echo "$a"
+a=`expr $a + 1`
+fi
+done
