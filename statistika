@@ -1,0 +1,40 @@
+#!/bin/bash
+read -a integers
+# -9 8 -13 25 0
+# 0. 1. 2. 3. 4.
+
+smallest=${integers[0]}
+#smallest -> -9
+
+for i in ${integers[@]}
+do
+
+     if [[ $i -lt $smallest ]]
+    #1. -9 < -9
+    #2. 8 < -9
+    #3. -13 < -9
+     then
+        smallest="$i"
+       #1. -
+       #2. -
+       #3. smallest -> -13
+     fi
+done
+
+echo "The smallest number is $smallest"
+
+
+
+biggest=${integers[0]}
+
+
+for i in ${integers[@]}
+do
+     if [[ $i -gt $biggest ]]
+     then
+        biggest="$i"
+     fi
+done
+
+echo "The largest number is $biggest"
+
